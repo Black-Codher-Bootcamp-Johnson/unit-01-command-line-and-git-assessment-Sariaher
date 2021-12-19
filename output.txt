@@ -1,0 +1,22 @@
+Script started on 2021-12-19 19:51:00+00:00 [TERM="dumb" TTY="/dev/pts/1" COLUMNS="209" LINES="52"]
+sari@LAPTOP-2V9SSQ4R:/mnt/c/Users/HOME/unit-01-command-line-and-git-assessment-Sariaher$ mkdir folder1
+sari@LAPTOP-2V9SSQ4R:/mnt/c/Users/HOME/unit-01-command-line-and-git-assessment-Sariaher$ mkdir folder2
+sari@LAPTOP-2V9SSQ4R:/mnt/c/Users/HOME/unit-01-command-line-and-git-assessment-Sariaher$ af  git add file1
+fatal: pathspec 'file1' did not match any files
+sari@LAPTOP-2V9SSQ4R:/mnt/c/Users/HOME/unit-01-command-line-and-git-assessment-Sariaher$ touch file1.txt
+sari@LAPTOP-2V9SSQ4R:/mnt/c/Users/HOME/unit-01-command-line-and-git-assessment-Sariaher$ touch file2.tst
+sari@LAPTOP-2V9SSQ4R:/mnt/c/Users/HOME/unit-01-command-line-and-git-assessment-Sariaher$ touch file. 2.txt
+sari@LAPTOP-2V9SSQ4R:/mnt/c/Users/HOME/unit-01-command-line-and-git-assessment-Sariaher$ touch file2 3.txt
+sari@LAPTOP-2V9SSQ4R:/mnt/c/Users/HOME/unit-01-command-line-and-git-assessment-Sariaher$ mv file1 fo   .txt filde    older1
+sari@LAPTOP-2V9SSQ4R:/mnt/c/Users/HOME/unit-01-command-line-and-git-assessment-Sariaher$ mvf  file2.txt folder2
+sari@LAPTOP-2V9SSQ4R:/mnt/c/Users/HOME/unit-01-command-line-and-git-assessment-Sariaher$ CD  cd folder1
+sari@LAPTOP-2V9SSQ4R:/mnt/c/Users/HOME/unit-01-command-line-and-git-assessment-Sariaher/folder1$ ls
+file1.txt
+sari@LAPTOP-2V9SSQ4R:/mnt/c/Users/HOME/unit-01-command-line-and-git-assessment-Sariaher/folder1$ pwd
+/mnt/c/Users/HOME/unit-01-command-line-and-git-assessment-Sariaher/folder1
+sari@LAPTOP-2V9SSQ4R:/mnt/c/Users/HOME/unit-01-command-line-and-git-assessment-Sariaher/folder1$ cd..   ..
+sari@LAPTOP-2V9SSQ4R:/mnt/c/Users/HOME/unit-01-command-line-and-git-assessment-Sariaher$ D.    rm m file1.txt.txt 3.txt
+sari@LAPTOP-2V9SSQ4R:/mnt/c/Users/HOME/unit-01-command-line-and-git-assessment-Sariaher$ exit
+exit
+
+Script done on 2021-12-19 20:02:23+00:00 [COMMAND_EXIT_CODE="0"]
